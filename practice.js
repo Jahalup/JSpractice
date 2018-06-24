@@ -10,3 +10,4 @@ function anagramCheck(x, y){
   console.log(anagramCheck("Hello World", "dlroW olleH")); // => true
   console.log(anagramCheck("Imtkheing'", "I'm the king")); // => true
   console.log(anagramCheck("test", "tesd")); // => false
+  console.log(anagramCheck("tom riddle", "tom Riddle"))
