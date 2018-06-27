@@ -10,3 +10,6 @@ function factorial(num) {
   // Tests
   // console.log(factorial(0)); // => 1
   console.log(factorial(5)); // => 120
+  console.log(factorial(10)); // => 3628800
+
+  
